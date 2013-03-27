@@ -7,6 +7,8 @@
  *
  */
 
+// DWJ 03/26/13 comment in constants file.
+
 #define kWindowWidth		400
 #define kWindowHeight	400
 #define KEY_ESCAPE		27

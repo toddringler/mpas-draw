@@ -1,6 +1,8 @@
 #include <string>
 #include <netcdfcpp.h>
 
+// DWJ 03/27/13 Adding another comment for work commits
+
 bool netcdf_mpas_read_onsphere(string filename);
 double netcdf_mpas_read_sphereradius(string filename);
 int netcdf_mpas_read_dim ( string filename, string dim_name );

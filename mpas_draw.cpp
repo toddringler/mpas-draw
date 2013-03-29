@@ -172,6 +172,8 @@ double xyz_scale;
 
 int main ( int argc, char *argv[] ){/*{{{*/
 
+// MGD: another test comment
+
 	//****************************************************************************80
 	//
 	//  Purpose:
